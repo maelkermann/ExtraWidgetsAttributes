@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ewa">
+        <attr name="backgroundColor" format="string" />
+        <attr name="backgroundColorOff" format="string" />
+        <attr name="hintColor" format="string" />
+        <attr name="textColor" format="string" />
+        <attr name="textColorOff" format="string" />
+        <attr name="highlightColor" format="string" />
+        <attr name="minHeight" format="dimension" />
+        <attr name="maxHeight" format="dimension" />
+    </declare-styleable>
+
+</resources>
